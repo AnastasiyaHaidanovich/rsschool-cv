@@ -48,7 +48,7 @@ a{
 }
 
 .paragraph-title{
-    border-bottom: 1px solid lightgray;
+    border-bottom: 1px solid rgb(75, 71, 71);
     padding-bottom: 15px;
     text-align: center;
 }
